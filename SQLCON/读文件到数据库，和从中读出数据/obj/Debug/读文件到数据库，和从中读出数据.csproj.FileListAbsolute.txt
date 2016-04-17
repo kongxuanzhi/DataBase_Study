@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\bin\Debug\读文件到数据库，和从中读出数据.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\bin\Debug\读文件到数据库，和从中读出数据.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\bin\Debug\读文件到数据库，和从中读出数据.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\obj\Debug\读文件到数据库_和从中读出数据.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\obj\Debug\读文件到数据库_和从中读出数据.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\obj\Debug\读文件到数据库，和从中读出数据.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\obj\Debug\读文件到数据库，和从中读出数据.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\读文件到数据库，和从中读出数据\obj\Debug\读文件到数据库，和从中读出数据.pdb

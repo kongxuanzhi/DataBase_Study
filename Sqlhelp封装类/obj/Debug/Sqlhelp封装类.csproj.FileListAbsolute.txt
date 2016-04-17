@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\bin\Debug\Sqlhelp封装类.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\bin\Debug\Sqlhelp封装类.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\bin\Debug\Sqlhelp封装类.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.Insert.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.AddArticle.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\Sqlhelp封装类\obj\Debug\Sqlhelp封装类.csprojResolveAssemblyReference.cache

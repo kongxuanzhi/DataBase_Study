@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\bin\Debug\电话本管理系统.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\bin\Debug\电话本管理系统.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\bin\Debug\电话本管理系统.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\obj\Debug\电话本管理系统.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\obj\Debug\电话本管理系统.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\obj\Debug\电话本管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\obj\Debug\电话本管理系统.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\obj\Debug\电话本管理系统.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\电话本管理系统\obj\Debug\电话本管理系统.csprojResolveAssemblyReference.cache

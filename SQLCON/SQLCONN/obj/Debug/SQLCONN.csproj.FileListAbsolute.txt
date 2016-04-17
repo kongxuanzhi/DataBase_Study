@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\bin\Debug\SQLCONN.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\bin\Debug\SQLCONN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\bin\Debug\SQLCONN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\obj\Debug\SQLCONN.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\obj\Debug\SQLCONN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\obj\Debug\SQLCONN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\SQLCONN\obj\Debug\SQLCONN.pdb

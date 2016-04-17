@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\bin\Debug\省份选择配置文件封装.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\bin\Debug\省份选择配置文件封装.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\bin\Debug\省份选择配置文件封装.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\obj\Debug\省份选择配置文件封装.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\obj\Debug\省份选择配置文件封装.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\obj\Debug\省份选择配置文件封装.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\obj\Debug\省份选择配置文件封装.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\省份选择配置文件封装\obj\Debug\省份选择配置文件封装.pdb

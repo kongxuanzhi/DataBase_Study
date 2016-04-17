@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\bin\Debug\登陆防注击.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\bin\Debug\登陆防注击.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\bin\Debug\登陆防注击.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\obj\Debug\登陆防注击.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\obj\Debug\登陆防注击.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\obj\Debug\登陆防注击.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\obj\Debug\登陆防注击.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\登陆防注击\obj\Debug\登陆防注击.pdb

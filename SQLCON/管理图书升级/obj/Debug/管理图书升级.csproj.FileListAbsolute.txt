@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\bin\Debug\管理图书升级.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\bin\Debug\管理图书升级.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\bin\Debug\管理图书升级.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.InsertOk.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书升级\obj\Debug\管理图书升级.csprojResolveAssemblyReference.cache

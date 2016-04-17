@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\bin\Debug\ADO.net连接池.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\bin\Debug\ADO.net连接池.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\bin\Debug\ADO.net连接池.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\obj\Debug\ADO.net连接池.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\obj\Debug\ADO.net连接池.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\obj\Debug\ADO.net连接池.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\obj\Debug\ADO.net连接池.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\ADO.net连接池\obj\Debug\ADO.net连接池.pdb

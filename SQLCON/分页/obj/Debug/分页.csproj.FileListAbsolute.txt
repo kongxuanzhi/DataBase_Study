@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\bin\Debug\分页.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\bin\Debug\分页.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\bin\Debug\分页.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\obj\Debug\分页.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\obj\Debug\分页.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\obj\Debug\分页.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\obj\Debug\分页.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\分页\obj\Debug\分页.pdb

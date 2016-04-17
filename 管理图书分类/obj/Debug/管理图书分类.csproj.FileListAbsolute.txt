@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\bin\Debug\管理图书分类.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\bin\Debug\管理图书分类.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\bin\Debug\管理图书分类.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\obj\Debug\管理图书分类.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\obj\Debug\管理图书分类.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\obj\Debug\管理图书分类.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\obj\Debug\管理图书分类.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\obj\Debug\管理图书分类.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\管理图书分类\obj\Debug\管理图书分类.csprojResolveAssemblyReference.cache

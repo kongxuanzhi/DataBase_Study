@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\bin\Debug\readDatabase.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\bin\Debug\readDatabase.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\bin\Debug\readDatabase.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\obj\Debug\readDatabase.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\obj\Debug\readDatabase.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\obj\Debug\readDatabase.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\obj\Debug\readDatabase.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\obj\Debug\readDatabase.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\readDatabase\obj\Debug\readDatabase.csprojResolveAssemblyReference.cache

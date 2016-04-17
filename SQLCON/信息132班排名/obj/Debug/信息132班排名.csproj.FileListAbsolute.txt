@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\bin\Debug\信息132班排名.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\bin\Debug\信息132班排名.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\bin\Debug\信息132班排名.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\obj\Debug\信息132班排名.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\obj\Debug\信息132班排名.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\obj\Debug\信息132班排名.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\obj\Debug\信息132班排名.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\obj\Debug\信息132班排名.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\信息132班排名\obj\Debug\信息132班排名.csprojResolveAssemblyReference.cache

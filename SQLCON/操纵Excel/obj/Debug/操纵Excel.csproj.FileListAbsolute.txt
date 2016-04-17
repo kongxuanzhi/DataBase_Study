@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\bin\Debug\操纵Excel.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\bin\Debug\操纵Excel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\bin\Debug\操纵Excel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\obj\Debug\操纵Excel.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\obj\Debug\操纵Excel.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\obj\Debug\操纵Excel.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\obj\Debug\操纵Excel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SQLCON\操纵Excel\obj\Debug\操纵Excel.pdb
